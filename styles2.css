@@ -1,0 +1,15 @@
+.wrapper{
+    width:400px;
+    display: flex;
+    justify-content: space-around;
+    margin:0px auto;
+    background-color:#ddebf8 ;
+    padding:25px 0px 25px 0px;
+    border-bottom: 5px solid #d8cefe ;
+}
+
+.align{
+    text-align: center;
+    color:#2b2829;
+}
+
